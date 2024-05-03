@@ -18,7 +18,7 @@
         descricao: String,
         quantidade: Number,
         marca: String,
-        preco: String,
+        preco: Number,
         cor: String,
         imagem: String // Novo campo para a URL da imagem
     })
